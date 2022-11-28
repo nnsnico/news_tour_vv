@@ -6,4 +6,6 @@ Notify tech news every a hour.
 
 - V (0.3.2)
 
-- [news api v2](https://newsapi.org/)
+- [News API v2](https://newsapi.org/)
+
+- [Slack API](https://api.slack.com/)
